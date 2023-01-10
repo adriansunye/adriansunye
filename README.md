@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![adriansunye stats](https://github-readme-stats.vercel.app/api?username=adriansunye)](https://github.com/adriansunye)
+[![adriansunye stats](https://github-readme-stats.vercel.app/api?username=adriansunye&show_icons=true&theme=radical)](https://github.com/adriansunye)
+
