@@ -7,7 +7,7 @@
 
 ```javascript
 const aboutMe = {
-  name: “Adrián Suñé Mancheño”,
+  name: "Adrián Suñé Mancheño",
   role: "Junior FullStack Developer",
   data: { 
       Linkedin: "https://www.linkedin.com/in/adriansunye/", 
