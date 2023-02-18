@@ -11,11 +11,11 @@ const aboutMe = {
   role: "Junior FullStack Developer",
   data: { 
       Linkedin: "https://www.linkedin.com/in/adriansunye/", 
-      Resume: "https://github.com/adriansunye",
+      Portfolio: "adriansunye.social",
          },
    motivation: {    
-        skills: "I like to work as a team and always help",
-        project: "I am currently training as a Full Stack Seveloper, it inspires me to learn frontend and backend 
+        skills: "I like to work in a team and always help",
+        project: "I am currently training as a Full Stack Developer, it inspires me to learn frontend and backend 
                   every day to improve my professional skills, and to be part of a team",
                  },
        }
@@ -29,9 +29,9 @@ const aboutMe = {
 
 ### 🌱 I'm currently learning... / Last Projects
 
-- TDD / SpringBoot / PostgreSQL
+- TDD / NextJS / TypeScript
 - MongoDB / Mongoose
-- Advanced React JS  projects in <a href="https://github.com/adriansunye/coders-consultory-client" target="_blank">Repository</a>
+- Advanced React JS project using TypeScript in <a href="https://github.com/adriansunye/portfolio-client" target="_blank">Repository</a>
 - FullStack Bootcamp with <a href="https://factoriaf5.org/" target="_blank">Factoria F5</a> in <a href="https://github.com/adriansunye" target="_blank">GitHub</a>
 
 ---
@@ -44,7 +44,6 @@ const aboutMe = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  
 </p>
   
 <h4> ⭐ Programming Languages</h4>
@@ -75,6 +74,7 @@ const aboutMe = {
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-DB7093?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   
 </p>
@@ -82,7 +82,7 @@ const aboutMe = {
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
