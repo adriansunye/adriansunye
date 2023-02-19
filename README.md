@@ -1,6 +1,5 @@
-### Hi there I am adriansunye, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> 
-
-#### Welcome to my Github!
+### Hi there I am adriansunye, 
+#### Welcome to my Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
